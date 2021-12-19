@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_number">Mobile Number</string>
+    <string name="hint_book">Select Book</string>
+    <string name="txt_submit">Submit</string>
+    <string name="msg_enter_name">Please enter valid name</string>
+    <string name="msg_enter_mobile_number">Please enter valid mobile number</string>
+    <string name="msg_select_book">Please select a book</string>
+    <string name="msg_book_added">Book Added Successfully</string>
+    <string name="msg_book_deleted">Book Deleted Successfully</string>
+    <string name="msg_book_updated">Book Updated Successfully</string>
+    <string name="msg_empty_book_list">No Books Found</string>
+    <string name="msg_add_book">Add Books</string>
+    <string name="dummy_list">Dummy List</string>
+    <string name="user_list">User List</string>
+    <string name="download_pdf">Download PDF</string>
+    <string name="accept">Accept</string>
+    <string name="accept_msg">Match Accepted</string>
+    <string name="decline_msg">Match Declined</string>
+
+</resources>
